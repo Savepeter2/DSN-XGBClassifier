@@ -1,1 +1,1 @@
-# DSN-XGBClassifier
+This is a classification model which predicts either a customer is defaulted on loan or not. This is a hackathon competition for the kowope mart prediction hosted by  Data Science Nigeria for the qualification for the 2020 bootcamp
